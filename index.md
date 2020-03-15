@@ -1,4 +1,4 @@
 ---
 layout: movie
-title: Raj's Movie List
+title: Sammy's Movie List
 ---
